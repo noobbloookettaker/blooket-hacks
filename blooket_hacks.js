@@ -158,7 +158,7 @@ details summary ~ * {
 
     header.style.textAlign = "center";
 
-    header.innerHTML = `Blooket Cheats <span style="font-size: 0.75rem">v4.10.22</span>`;
+    header.innerHTML = `Blooket Admin panel <span style="font-size: 0.75rem">v4.10.22</span>`;
 
     let loop;
 
